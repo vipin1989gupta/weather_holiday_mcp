@@ -1,0 +1,17 @@
+{
+    "holiday-planning": {
+        "type": "stdio",
+        "command": "/Users/vipingupta/.pyenv/versions/3.10.15/bin/python",
+        "args": [
+        "/Users/vipingupta/go/src/github.com/weather_mcp/src/travel_plan_server.py"
+        ]
+    },
+    "weather-server": {
+        "type": "stdio",
+        "command": "/Users/vipingupta/.pyenv/versions/3.10.15/bin/python",
+        "args": [
+        "/Users/vipingupta/go/src/github.com/weather_mcp/src/weather_server.py"
+        ]
+    }
+}
+  
